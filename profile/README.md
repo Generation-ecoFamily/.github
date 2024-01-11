@@ -18,4 +18,8 @@
   <a href="https://github.com/Generation-ecoFamily/banco-de-dados">Projeto Principal</a>
   ·
   <a href="https://github.com/orgs/Generation-ecoFamily/people">Membros</a>
+  ·
+  <a href="https://github.com/Generation-ecoFamily/.github?tab=GPL-3.0-1-ov-file">Política de uso</a>
+  .
+  <a href="https://github.com/Generation-ecoFamily/.github?tab=coc-ov-file">Código de Conduta</a>
 </p>
