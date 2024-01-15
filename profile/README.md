@@ -11,15 +11,17 @@
 </p>
 
 <p align="center">
-  <a href="_blank">Loja Virtual</a>
   ·
-  <a href="https://generation.org">Generation</a>
+ <a href="_blank" target="_blank"><img src="https://img.shields.io/badge/Loja%20Virtual-00DFA2 target="_blank"></a>
   ·
-  <a href="https://github.com/Generation-ecoFamily/banco-de-dados">Projeto Principal</a>
+  <a href="https://generation.org" target="_blank"><img src="https://img.shields.io/badge/Generation-F94C10" target="_blank"></a>
   ·
-  <a href="https://github.com/orgs/Generation-ecoFamily/people">Membros</a>
+  <a href="https://github.com/Generation-ecoFamily/banco-de-dados" target="_blank"><img src="https://img.shields.io/badge/Projeto%20Principal-F94C10" target="_blank"></a>
   ·
-  <a href="https://github.com/Generation-ecoFamily/.github?tab=GPL-3.0-1-ov-file">Política de uso</a>
+   <a href="https://github.com/orgs/Generation-ecoFamily/people" target="_blank"><img src="https://img.shields.io/badge/Membros-F94C10" target="_blank"></a>
+  ·
+   <a href="https://github.com/Generation-ecoFamily/.github?tab=GPL-3.0-1-ov-file" target="_blank"><img src="https://img.shields.io/badge/Política%20De%20Uso-F94C10" target="_blank"></a>
   .
-  <a href="https://github.com/Generation-ecoFamily/.github?tab=coc-ov-file">Código de Conduta</a>
+   <a href="https://github.com/Generation-ecoFamily/.github?tab=coc-ov-file" target="_blank"><img src="https://img.shields.io/badge/Código%20De%20Conduta-F94C10" target="_blank"></a>
+  .
 </p>
